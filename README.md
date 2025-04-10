@@ -26,8 +26,7 @@ A simple and elegant web-based Library Management System built using **React**, 
 ## 📦 Getting Started
 
 ### 1. Clone the repository
-
-bash
+```bash
 git clone https://github.com/Banashree19/Library_Managment.git
 cd Library_Managment
 npm install
