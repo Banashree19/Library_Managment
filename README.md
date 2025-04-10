@@ -46,9 +46,7 @@ Library_Managment/
 
 ---
 
-Let me know if you'd like to add:
-- Contribution guidelines
-
+Let me know if you'd like to add
 Made with 💙 by Banashree
 
 
